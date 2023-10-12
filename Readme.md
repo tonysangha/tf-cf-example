@@ -63,5 +63,3 @@ cloudflare_dns_records_created = {
   "txt-record" = "sample-txt.cfapjc.dev"
 }
 ```
-
-terraform init
